@@ -1,1 +1,6 @@
 cifake
+*.bin
+*.pt
+runs
+checkpoint-*
+wandb
