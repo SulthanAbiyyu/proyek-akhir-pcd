@@ -1,13 +1,16 @@
 {
-    "epoch": 5.0,
-    "eval_f1": 0.9619214997070884,
-    "eval_loss": 0.09798860549926758,
-    "eval_runtime": 78.0141,
-    "eval_samples_per_second": 153.818,
-    "eval_steps_per_second": 4.807,
-    "total_flos": 2.833414878432854e+19,
-    "train_loss": 0.26412399506653755,
-    "train_runtime": 9012.8982,
-    "train_samples_per_second": 59.914,
-    "train_steps_per_second": 0.468
+  "epoch": 5.0,
+  "eval_f1": 0.9669,
+  "eval_precision": 0.9715,
+  "eval_recall": 0.9488,
+  "eval_accuracy": 0.9603,
+  "eval_loss": 0.1029,
+  "eval_runtime": 78.0141,
+  "eval_samples_per_second": 153.818,
+  "eval_steps_per_second": 4.807,
+  "total_flos": 2.8334,
+  "train_loss": 0.1913,
+  "train_runtime": 9012.8982,
+  "train_samples_per_second": 59.914,
+  "train_steps_per_second": 0.468
 }
