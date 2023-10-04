@@ -4,3 +4,4 @@ cifake
 runs
 checkpoint-*
 wandb
+analysis_error.ipynb
