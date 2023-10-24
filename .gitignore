@@ -2,6 +2,6 @@ cifake
 *.bin
 *.pt
 runs
-checkpoint-*
+runs
 wandb
 analysis_error.ipynb
